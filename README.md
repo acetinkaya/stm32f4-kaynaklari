@@ -18,7 +18,7 @@ Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 | 📘 Kitap Adı | Açıklama | ISBN No | Yayın Yeri/Evi | Erişim Sayfası | Referans No |
 |--------------|---------|------|-----------|------|-|
-| STM32F4 Discovery Kartı ile ARM Mikrokontrolcü Programlama | STM32F4 ARM Kontrolcü kartı alanında ders kitabıdır. | 978-625-439-531-4 | Nobel 
+| STM32F4 Discovery Kartı ile ARM Mikrokontrolcü Programlama | STM32F4 ARM Kontrolcü kartı alanında ders kitabıdır. | 978-625-439-531-4 | Nobel Akademik Yayıncılık 
 
 
 ---
