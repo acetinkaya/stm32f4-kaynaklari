@@ -4,4 +4,5 @@
 
 ## 📌 **Bu Reponun Amacı:**
 
-**STM32F4 ARM Mikrokontrolcü** alanında temel 
+**STM32F4 ARM Mikrokontrolcü** alanında temel ve ileri seviye 
+
