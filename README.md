@@ -6,4 +6,5 @@
 
 **STM32F4 ARM Mikrokontrolcü** alanında temel ve ileri seviye kaynak kitapları içermektedir.
 
-Bu sayfa öğrenciler, araştırmacılar ve profesyoneller 
+Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteliğinde olup, 
+
