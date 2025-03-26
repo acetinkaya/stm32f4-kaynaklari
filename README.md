@@ -1,3 +1,3 @@
 # STM32F4 ARM Mikrokontrolcü Programlama Kaynaklari
 
-## STM32F4 ARM Mikrokontrolcü Kontrol çalışmaları ile ilgili kaynak 
+## STM32F4 ARM Mikrokontrolcü Kontrol çalışmaları ile ilgili kaynak kitapları, dokümanları ve 
