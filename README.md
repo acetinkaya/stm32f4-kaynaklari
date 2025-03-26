@@ -4,5 +4,5 @@
 
 ## 📌 **Bu Reponun Amacı:**
 
-**STM32F4 ARM Mikrokontrolcü** alanında temel ve ileri seviye 
+**STM32F4 ARM Mikrokontrolcü** alanında temel ve ileri seviye kaynak kitapları içermektedir.
 
