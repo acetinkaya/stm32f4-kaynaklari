@@ -31,5 +31,4 @@ Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 📌 Bu repo, 2025 yılında [Öğr. Gör. Ali Çetinkaya](https://github.com/acetinkaya) tarafından oluşturulmuştur. İçeriğinde yer alan kitaplar, doğrudan yayınevleri ve kitapçılar aracılığıyla temin edilebilir. Kolay erişim sağlamak adına, resmi satış noktalarının bağlantıları eklenmiştir.
 
-📢 **Önemli Not:** Bu liste, Otomatik kontrol 
-
+📢 **Önemli Not:** Bu liste, Otomatik kontrol alanında kaynak paylaşımı 
