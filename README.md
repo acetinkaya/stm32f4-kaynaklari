@@ -22,7 +22,7 @@ Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 ---
 
-1. Dr. 
+1. Dr. Ali Şentürk,
 
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
 
