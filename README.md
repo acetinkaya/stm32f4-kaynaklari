@@ -16,4 +16,4 @@ Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 ## 📖 Önerilen Kaynak Kitaplar
 
-| 📘 Kitap Adı | Açıklama | ISBN No | 
+| 📘 Kitap Adı | Açıklama | ISBN No | Yayın Yeri/Evi | 
