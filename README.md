@@ -10,5 +10,5 @@ Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 ## NOT: Katkıda bulunmak isteyenler için öneri ve güncellemeler **Pull request** veya **issue açarak** paylaşılabilir.
 
-## Bu kitapları çeşitli kitapçılardan ve yayınevlerinden 
+## Bu kitapları çeşitli kitapçılardan ve yayınevlerinden temin edilebilirsiniz.
 
