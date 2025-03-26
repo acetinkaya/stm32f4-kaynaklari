@@ -22,7 +22,7 @@ Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 ---
 
-1. Dr. Ali Şentürk, STM32F4 Discovery 
+1. Dr. Ali Şentürk, STM32F4 Discovery Kartı ile ARM Mikrokontrolcü 
 
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
 
