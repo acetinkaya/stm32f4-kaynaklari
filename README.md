@@ -29,4 +29,4 @@ Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 ---
 
-📌 Bu repo, 
+📌 Bu repo, 2025 yılında 
