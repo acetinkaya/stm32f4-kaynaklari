@@ -22,7 +22,7 @@ Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 ---
 
-1. Dr. Ali Şentürk, STM32F4 Discovery Kartı ile ARM Mikrokontrolcü Programlama, Nobel Akademik Yayıncılık, 
+1. Dr. Ali Şentürk, STM32F4 Discovery Kartı ile ARM Mikrokontrolcü Programlama, Nobel Akademik Yayıncılık, Ankara, 2022.
 
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
 
