@@ -29,4 +29,4 @@ Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 ---
 
-📌 Bu repo, 2025 yılında 
+📌 Bu repo, 2025 yılında [Öğr. Gör. Ali Çetinkaya](https://github.com/acetinkaya) 
